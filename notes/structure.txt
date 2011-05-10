@@ -1,0 +1,26 @@
+
+Intro
+TDD stands on the shoulders of Giants (test last, test first, TDD).
+
+
+Understanding Goals
+
+Themes
+    working software
+    fast feedback
+
+The Domain
+
+No Tests
+
+Test Last
+
+Test First
+
+TDD
+
+
+
+------
+can I use the same example the whole way?
+    back it out, redo it using test before/test after/etc

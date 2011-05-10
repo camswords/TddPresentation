@@ -1,0 +1,25 @@
+
+time to working software (feedback): really slow
+    build build build.....  la la la... does it work?
+
+fear of change: high
+    little to no confidence
+
+
+is possible to write working software without tests
+    software still gets tested
+        by your testing team ($$)
+        by your user
+
+fundamental problem: when you change one piece of code, you don't know what you have affected.
+    tests are indicators that something has changed.
+
+
+predictability
+    lets predict... how long it takes to make a kinder egg toy.
+    lets predict... how long it will take everyone to find something I have hidden in the room.
+
+    why is one predictable, one not?
+
+    the search space
+        why we use the debugger when we dont have tests

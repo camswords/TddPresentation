@@ -1,0 +1,15 @@
+
+
+time to working software (feedback): instant
+    find out about the problems as soon as you can
+    
+fear of change: low (same as test before)
+
+on finding an error, size of search space: low  (same as test before)
+
+ease of testing: easy (same as test before)
+
+
+Red
+Green
+Refactor (to remove duplication)

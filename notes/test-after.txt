@@ -1,0 +1,17 @@
+
+time to working software (feedback): slow
+    write code, write test, retrofit code to suit test.
+
+fear of change: highish
+    some confidence, can change with less fear
+
+on finding an error, size of search space: largish
+    maybe some happy path conditions are tested
+    integration tests make it smaller
+    (overall size gets smaller, holes poked in the middle where you have a happy path test per unit)
+
+ease of testing: fricken hard
+    static methods
+    cant substitute at runtime
+    code isn't written to be testable
+
