@@ -72,7 +72,16 @@
       <file leaf-file-name="structure.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notes/structure.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.07034483">
+            <state line="23" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.53931034">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-before.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notes/test-before.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="24" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,8 +100,8 @@
         <option value="$PROJECT_DIR$/notes/no-tests.txt" />
         <option value="$PROJECT_DIR$/notes/test-after.txt" />
         <option value="$PROJECT_DIR$/notes/tdd.txt" />
-        <option value="$PROJECT_DIR$/notes/structure.txt" />
         <option value="$PROJECT_DIR$/notes/test-before.txt" />
+        <option value="$PROJECT_DIR$/notes/structure.txt" />
       </list>
     </option>
   </component>
@@ -305,7 +314,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -315,7 +324,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946082" sideWeight="0.6618037" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946082" sideWeight="0.6618037" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -382,13 +391,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/test-before.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="27" selection-start="413" selection-end="413" vertical-scroll-proportion="0.3751724">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/notes/no-tests.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="55" selection-start="735" selection-end="735" vertical-scroll-proportion="0.5746479">
@@ -403,9 +405,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/notes/test-before.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="24" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notes/structure.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.07034483">
+        <state line="23" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.53931034">
           <folding />
         </state>
       </provider>

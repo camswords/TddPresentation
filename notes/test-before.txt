@@ -22,3 +22,6 @@ test by example
 ping-pong fun and games
 
 fundamental change in the way that we think
+    thinking happens in the test
+    not everyone makes this jump
+    massive mental shift

@@ -1,23 +1,28 @@
 
 Intro
-TDD stands on the shoulders of Giants (test last, test first, TDD).
+Kent Beck
+    "Clean code that works"
 
 
-Understanding Goals
+theme: working software
 
-Themes
-    working software
-    fast feedback
+Prerequisites (nice to have)
+    Alistair's presentation?
+
+Goals
+    answer the question:
+    * am I doing TDD? (what is TDD)
+
+    * if I am not doing TDD, then what am I doing?
+
+    * whats the point? Why TDD?
+
+Lets talk about Johnson
+    writes a bit of java
+    wants to write clean code that works.
+    No Tests, Test Last, Test First, TDD
 
 The Domain
-
-No Tests
-
-Test Last
-
-Test First
-
-TDD
 
 
 
