@@ -23,9 +23,15 @@ Lets talk about Johnson
     No Tests, Test Last, Test First, TDD
 
 The Domain
+    Retail Banking facilities to online customers
+        open account
+        deposit money
+        print receipt
 
 
-
+    Problem
+        International system, lots of currencies
+        
 ------
 can I use the same example the whole way?
     back it out, redo it using test before/test after/etc
