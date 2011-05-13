@@ -20,3 +20,5 @@ mocking and stubbing is used to substitute implementations
 test by example
 
 ping-pong fun and games
+
+fundamental change in the way that we think
