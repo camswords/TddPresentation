@@ -2,14 +2,16 @@
 time to working software (feedback): really slow
     build build build.....  la la la... does it work?
 
+is possible to write clean, working software without tests
+    software still gets tested
+        by your testing team ($$)
+        by your user
+
+
 fear of change: high
     little to no confidence
 
 
-is possible to write working software without tests
-    software still gets tested
-        by your testing team ($$)
-        by your user
 
 fundamental problem: when you change one piece of code, you don't know what you have affected.
     tests are indicators that something has changed.
