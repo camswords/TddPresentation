@@ -60,10 +60,10 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JohnsonsSystem.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="JohnsonsSystem.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/tdd/presentation/JohnsonsSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="47" selection-start="282" selection-end="282" vertical-scroll-proportion="0.1875862">
+            <state line="7" column="14" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -72,25 +72,16 @@
       <file leaf-file-name="DepositReceipt.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/tdd/presentation/DepositReceipt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="6" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+            <state line="5" column="4" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="no-tests.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/no-tests.txt">
+      <file leaf-file-name="no-tests.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../TddPresentationNotes/notes/no-tests.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="structure.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/structure.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="4" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0">
+            <state line="3" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.11208791">
               <folding />
             </state>
           </provider>
@@ -116,9 +107,9 @@
         <option value="$PROJECT_DIR$/src/main/tdd/presentation/Account.java" />
         <option value="$PROJECT_DIR$/src/main/tdd/presentation/Teller.java" />
         <option value="$PROJECT_DIR$/notes/structure.txt" />
-        <option value="$PROJECT_DIR$/src/main/tdd/presentation/DepositReceipt.java" />
         <option value="$PROJECT_DIR$/notes/no-tests.txt" />
         <option value="$PROJECT_DIR$/src/main/tdd/presentation/JohnsonsSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/tdd/presentation/DepositReceipt.java" />
       </list>
     </option>
   </component>
@@ -171,7 +162,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TddPresentation" />
+              <option name="myItemId" value="TddPresentationNotes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,46 +173,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="TddPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TddPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TddPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="presentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TddPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TddPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="notes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -422,7 +373,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946082" sideWeight="0.6618037" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -469,50 +420,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/test-after.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="530" selection-end="530" vertical-scroll-proportion="0.63516486" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/presentation/change-me-too.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/test-before.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="24" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/tdd.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="32" selection-start="305" selection-end="305" vertical-scroll-proportion="0.32827586" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/tdd/presentation/Teller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="8" selection-start="96" selection-end="96" vertical-scroll-proportion="0.18085106">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/tdd/presentation/AccountReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="18" selection-start="272" selection-end="272" vertical-scroll-proportion="0.43404254">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/tdd/presentation/SystemClock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="16" selection-start="95" selection-end="95" vertical-scroll-proportion="0.21702127">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/structure.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="4" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -526,28 +436,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/tdd/presentation/Money.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="38" selection-start="493" selection-end="493" vertical-scroll-proportion="0.53931034">
+        <state line="23" column="38" selection-start="493" selection-end="493" vertical-scroll-proportion="0.6744681">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/no-tests.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/tdd/presentation/AccountReference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
+        <state line="13" column="39" selection-start="324" selection-end="324" vertical-scroll-proportion="0.47021276">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/tdd/presentation/SystemClock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="95" selection-end="95" vertical-scroll-proportion="0.21702127">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="180" selection-end="180" vertical-scroll-proportion="0.22417583">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/tdd/presentation/DepositReceipt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+        <state line="5" column="4" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/tdd/presentation/JohnsonsSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="47" selection-start="282" selection-end="282" vertical-scroll-proportion="0.1875862">
+        <state line="7" column="14" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TddPresentationNotes/notes/no-tests.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.11208791">
           <folding />
         </state>
       </provider>
