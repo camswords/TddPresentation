@@ -6,5 +6,6 @@ public class JohnsonsSystem {
         Account myAccount = new Teller().openNewAccount();
 
         DepositReceipt receipt = myAccount.deposit(new Money("56.66"));
+        
     }
 }

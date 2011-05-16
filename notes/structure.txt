@@ -18,18 +18,18 @@ Goals
     * whats the point? Why TDD?
 
 
+for the next hour
 
 Lets talk about Johnson
+    works bank
     writes a bit of java
     wants to write clean code that works.
-    No Tests, Test Last, Test First, TDD
 
-The Domain
-    Retail Banking facilities to online customers
+    learning progression
+    No Tests, Test Last, Test First, TDD
+    
+project: Retail Banking facilities to online customers
         open account
         deposit money
-        print receipt
+        show receipt to customer
 
-
-    Problem
-        International system, lots of currencies
