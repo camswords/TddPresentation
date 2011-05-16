@@ -7,7 +7,7 @@ Kent Beck
 theme: working software
 
 Prerequisites (nice to have)
-    Alistair's presentation?
+    Alistair's Presentation?
 
 Goals
     answer the question:
@@ -16,6 +16,8 @@ Goals
     * if I am not doing TDD, then what am I doing?
 
     * whats the point? Why TDD?
+
+
 
 Lets talk about Johnson
     writes a bit of java
@@ -31,7 +33,3 @@ The Domain
 
     Problem
         International system, lots of currencies
-        
-------
-can I use the same example the whole way?
-    back it out, redo it using test before/test after/etc

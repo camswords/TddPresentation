@@ -10,8 +10,8 @@ public class Account {
         this.balance = startingBalance;
     }
 
-    public Receipt deposit(Money amount) {
+    public DepositReceipt deposit(Money amount) {
         balance = balance.add(amount);
-        return new Receipt(amount, accountReference, balance, new SystemClock().now());
+        return new DepositReceipt(amount, accountReference);
     }
 }
